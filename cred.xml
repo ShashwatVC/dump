@@ -1,0 +1,17 @@
+<cred>
+    <site>
+        <name>google</name>
+        <usnm>shrapnel</usnm>
+        <pwd>2008</pwd>
+    </site>
+    <site>
+        <name>facebook</name>
+        <usnm>VC</usnm>
+        <pwd>2009</pwd>
+    </site>
+    <site>
+        <name>oracle</name>
+        <usnm>SHASHWAT</usnm>
+        <pwd>2011</pwd>
+    </site>
+</cred>

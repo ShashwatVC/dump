@@ -1,0 +1,27 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<customers>
+  <customer id="c101">
+    <name>John</name>
+    <age>40</age>
+    <mobile>9100000000</mobile>
+    <state>NY</state>
+  </customer>
+  <customer id="c102">
+    <name>Jack</name>
+    <age>20</age>
+    <mobile>9100000008</mobile>
+    <state>NJ</state>
+  </customer>
+  <customer id="c103">
+    <name>Pete</name>
+    <age>56</age>
+    <mobile>9100000001</mobile>
+    <state>MD</state>
+  </customer>
+  <customer id="c104">
+    <name>Mark</name>
+    <age>11</age>
+    <mobile>9100000003</mobile>
+    <state>LA</state>
+  </customer>
+</customers>
