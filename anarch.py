@@ -1,6 +1,10 @@
-def f1():
-    x = 100
-    print(x)
-
-#x = +1
-f1()
+with open("myfile.txt", "w") as f:
+    f.write("Hello World Python Programming")
+    
+with open('myfile.txt', 'w+') as f:
+    f.write("Hello")
+    f.seek(0)
+    data = f.readlines()
+    for line in data:
+        words = line.split()
+        print (words)
